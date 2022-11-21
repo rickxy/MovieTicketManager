@@ -1,0 +1,11 @@
+
+**Manager Login Details**
+
+Username: manager
+Password: Password@123
+
+**Cashier Login Details**
+
+Username: cashier
+Password: cashier123
+
